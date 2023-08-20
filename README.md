@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python,Statistics,Machine learning**
 
-- 📫You can follow me on LinkedIn: **linkedin.com/in/vivek-kumar-shriwas-93244a279**
+- 📫You can follow me on LinkedIn: **https://www.linkedin.com/in/vivek-kumar-shriwas-93244a279**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
